@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of a monstrous and prodigous whale lately cast on shore at rings-end near Dublin in Ireland with the manner of its taking, Also, an account of what dammages happened to several ships in those parts by a great storm. Sent over in letters from Dublin, to several merchants and others in London. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94948</idno>
+            <idno type="STC">Wing T2543</idno>
+            <idno type="STC">ESTC R229709</idno>
+            <idno type="EEBO-CITATION">99895361</idno>
+            <idno type="PROQUEST">99895361</idno>
+            <idno type="VID">152750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94948)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of a monstrous and prodigous whale lately cast on shore at rings-end near Dublin in Ireland with the manner of its taking, Also, an account of what dammages happened to several ships in those parts by a great storm. Sent over in letters from Dublin, to several merchants and others in London. With allowance.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for T.N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Curiosities and wonders --  England --  Early works to 1800.</term>
+               <term>Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152750:1" rendition="simple:additions"/>
+            <p>A True and perfect Relation Of a monſtrous and Prodigious WHALE Lately caſt on Shore at RINGS-END NEAR <hi>Dublin in Jreland:</hi> With the manner of its taking. ALSO, An Account of what Dammages happened to ſeveral Ships in thoſe parts by a great Storm.</p>
+            <p>
+               <hi>Sent over in Letters from</hi> DUBLIN, <hi>to ſeveral Merchants and others in</hi> LONDON.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>With Allowance.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. N.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:152750:2"/>
+            <pb n="1" facs="tcp:152750:2"/>
+            <head>A True and Perfect Relation of a Strange and Monſtrous <hi>Whale,</hi> caſt upon the Shore at <hi>Rings-End</hi> near <hi>Dublin</hi> in <hi>Ireland,</hi> the begin<g ref="char:EOLhyphen"/>ning of <hi>January 1678/9.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IF your more weighty Imployments, to which great Worth and approved Abilities have de<g ref="char:EOLhyphen"/>ſervedly called you, can admit of any Diver<g ref="char:EOLhyphen"/>tiſement, I hope you will not take it ill if I en<g ref="char:EOLhyphen"/>deavour to contribute towards it: Eſpecially having Engaged my ſelf to give a juſt and due ac<g ref="char:EOLhyphen"/>count of ſuch Occurrenc s as in this juncture of Af<g ref="char:EOLhyphen"/>fairs ſhall happen here in <hi>Ireland.</hi>
+            </p>
+            <p>I ſhould be loath to diſturb your more ſerious hours with Feigned Rumours, <hi>Chymaeras</hi> and Prodi<g ref="char:EOLhyphen"/>gious Triſles of that nature to make up a Pamphlet;
+<pb n="2" facs="tcp:152750:3"/>but ſuch things as have really happen'd, and are wor<g ref="char:EOLhyphen"/>thy of Obſervation; and whereof many thouſands in this Nation have been Witneſſes, I may be the more confident to relate as real Truths; and conſequent<g ref="char:EOLhyphen"/>ly more fit to be communicated to your Knowledge.</p>
+            <p>About the latter end of the laſt Month, the year ended in an Angry humour; God grant the next may ſhine upon us with more Benevolent Stars, and Crown the beſt of Kings His moſt Gracious Majeſty, with Length of dayes, Happy enſuing years, againſt all the malice of His Enemies and Envious Conſpirators.</p>
+            <p>On the 22d. of <hi>December</hi> laſt, the Wind being at W.S.W. it blew a great Storm, but we heard of no loſs of Shipping, only ſome few Merchantmen that fell foul one of another in our Harbour. This high Wind brought down ſuch a vaſt quantity of Snow, as hath not been ſeen in this Country for many years; which in few dayes being waſht away with the abundance of Rain that ſucceeded, and the great Floods that fell from the Mountains, cauſed ſo great a Freſh, that ſeveral Meadows and Iſlands about the River <hi>Liffy</hi> were overflown.</p>
+            <p>But what was the moſt remarkable and worthy Ob<g ref="char:EOLhyphen"/>ſervation in this Occurrence, was a man who Swom down the River on a Hay-Cock. This man near a place called <hi>Killmanum</hi> near <hi>Dublin</hi> above the Bridge, en<g ref="char:EOLhyphen"/>deavouring to ſave a Cock of Hay that the Water
+<pb n="3" facs="tcp:152750:3" rendition="simple:additions"/>had encompaſſed, leapt thereon with a Pole in his hand; his Ship was now afloat, and he had no ſooner got one foot aboard, but he was lanched forth into the main Current, and driven on with that ſucceſs, that he paſt the Bridge without any Damage: When he arrived on the other ſide the Bridge, there were ſe<g ref="char:EOLhyphen"/>veral Attempts made to ſave him, but the Rapidneſs of the Stream would admit of no help; only one Boat, which meeting full ſide with the Hay-Cook, was over<g ref="char:EOLhyphen"/>turn'd with two men it, who were both loſt. At laſt more obliged to Providence then his skill in Steerage, when he expected no leſs then the Main Ocean for his Re<g ref="char:EOLhyphen"/>fuge, he was left in a ſafe Harbour on <hi>Clantarf</hi> Iſland betwixt <hi>Clantarf</hi> and <hi>Rings-end.</hi>
+            </p>
+            <p>This Adventure of the Hay-Merchant was the whole Diſcourſe and wonder of the Town, and had conti<g ref="char:EOLhyphen"/>nued ſo yet, if the Sea, more fertile in Monſtrous Productions then the Land, had not afforded them new cauſe of Admiration: For the next day, (as if the Floods were weary of their Load and willing to diſ<g ref="char:EOLhyphen"/>charge themſelves of ſo great a Burden) was thrown on the Shore a <hi>Whale</hi> of ſo vaſt a Magnitude, as never yet was diſcover'd in theſe parts, or hardly ever ſeen in <hi>Bermudas</hi> their Native Coaſt.</p>
+            <p>It was taken up by <hi>Rings-end,</hi> within two Miles of <hi>Dublin,</hi> where it lyes as yet, the wonder and amaze<g ref="char:EOLhyphen"/>ment of all Spectators, who flock from all parts both of City and Country to ſatisfie their Curioſity with the ſight of this Prodigious Spectacle.</p>
+            <pb n="4" facs="tcp:152750:4" rendition="simple:additions"/>
+            <p>This Immenſe Body of boundleſs Natures begetting, as it exceeds all other Creatures in quantity of it ex<g ref="char:EOLhyphen"/>ceeds almoſt all poſſibility of inforcing a belief of the vaſtneſs of its Dimenſions on any ſave thoſe only that have been Spectators, and which I would not under<g ref="char:EOLhyphen"/>take to deſcribe unto you, had I not my ſelf been an Eye Witneſs.</p>
+            <p>It is in Length 52 Foot, in Breadth proportionable, the Tail is 14 Foot broad when it is extended, the Fins of a Prodigious Length and Breadth, and the Head an<g ref="char:EOLhyphen"/>ſwerable to the Bulk of the Body <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his upper Jawes are ſupported from the under part of his Mouth with a Beam of Oke of eight Foot long; the Tongue was in Length eight Foot and a half, of a proportionable Tinck<g ref="char:EOLhyphen"/>neſs and Breadth; The Tongue being cut ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I have ſeen many people paſs through his Jawes, and ſeveral ſtand upright in his Mouth at the ſame time.</p>
+            <p>But the moſt ſurprizing thing was this, when they had Diſſected him of ſeveral Shoales of Fiſh, which they found in his Belly of all ſorts whole and Undi<g ref="char:EOLunhyphen"/>geſted, together with a Seaman intire in his Cloaths, (which being laid on the Shore by the ſide of the ſaid <hi>Whale</hi>) was ſoon diſcovered by his Wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and ſeveral other ſt<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing by, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be one of the two men that were overturnd by the Hay-Cock the day before.</p>
+            <pb n="5" facs="tcp:152750:4" rendition="simple:additions"/>
+            <p>Many ſtrange Conjectures have been made of this prodigious Bulk; Aſtronomers and Aſtrologers have paſt their Judgments upon it, and ſcarce an <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wife of Cobler in Town but have had ſomething to ſay to it; and no doubt but it will ſerve the whole <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with Raſhers and Diſcourſe for many dayes to come.</p>
+            <p>But for my part, all the Prediction I ſhall draw from it; is that our Kings moſt Sacred Majeſty ſhall be now reſtored to a ſtate of greater Glory and Security, (as he was formerly) to his lawful Kingdoms and Loyal People; delivered from the hands of all His Enemies and Bloody Conſpirators, againſt the Life and Sacred Perſon of ſo Good, ſo Gracious, and ſo Indulgent a Prince.</p>
+            <p>Their deſign being to Subvert Monarchy, and alter the Government, which by God and the Laws are Eſtabliſhed in theſe His Majeſties Realms.</p>
+            <p>Such a <hi>Whale</hi> was caſt up in <hi>England</hi> in the time of the late Uſurpation, a little before the time of His Majeſties bleſſed Reſtoration: And another was caſt aſhore at <hi>Carrig-Fergus</hi> in the North of this Country in the year 40. but that was very ſmall in Compariſon of this.</p>
+            <p>And we His Majeſties Faithful Subjects do heartily wiſh here, that this Miraculous Prodigy caſt on this
+<pb n="6" facs="tcp:152750:5"/>Shore, may be a true Omen, and Preſage the Down<g ref="char:EOLhyphen"/>fal of all ſuch as were Conſenters, Abetters, or Con<g ref="char:EOLhyphen"/>trivers for carrying on this Horrible Plot, either againſt our moſt Gracious King or Government, whom that God may long preſerve againſt all their Conſpiracies, is the Hearty Prayers and Wiſhes of</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>Your Affectionate Friend and Humble Servant. <hi>J. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
